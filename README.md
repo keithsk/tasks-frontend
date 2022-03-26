@@ -1,6 +1,6 @@
 # Task management React App (Front-End)
 
-Task management app - React CRUD Hook App with Vue Router & Axios
+Task management app - ReactJs CRUD Hook App with Axios
 
 
 ## Prerequisites
